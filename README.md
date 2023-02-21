@@ -25,6 +25,10 @@ A short video demo of the complete project:
 
 
 
+https://user-images.githubusercontent.com/112818778/220402594-7e7374cf-5515-4d9d-8fc7-6e9cdc182841.mp4
+
+
+
 
 
 
@@ -45,7 +49,7 @@ A short video demo of the complete project:
 ## Deployment
 
 The deployed link of the project: 
-#### 
+#### https://thedigitalclocktimer.netlify.app/
 
 ## Contributions
 
